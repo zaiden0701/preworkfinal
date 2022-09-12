@@ -7,3 +7,15 @@ body {
     color: aliceblue;
     font: larger;
 }
+
+ol {
+    text-align: left;
+    font-size: larger;
+    color:darkkhaki;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+    margin-top: -500px;
+}
